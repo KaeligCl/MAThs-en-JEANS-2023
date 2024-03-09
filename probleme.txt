@@ -1,0 +1,3 @@
+Lors de la livraison d'un nombre fini de cartons, ceux-ci sont déposés en un nombre fini de tas. Un robot est chargé de les rangés dans les rayons de stockage.
+Suite à un court circuit, le robot de rangement est déboussolé.
+A chaque étape, il retire un carton dans chaque tas, et les cartons retirées forment un nouveau tas. Il répète ainsi cette opération en prenant en compte le nouveau tas.

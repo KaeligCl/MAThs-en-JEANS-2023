@@ -1,0 +1,9 @@
+La procédure du robot a t-elle une fin ?
+non
+
+
+Y a-t-il un configuration finale des cartons ?
+Oui, c'est quand elle atteint une configuration de demi-pyramide
+
+
+en combien détapes est atteinte la configuration finale des cartons?
